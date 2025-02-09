@@ -1,6 +1,5 @@
 # Product Details Showing System - Spring Boot REST API
 
-Description
 This project is a Spring Boot REST API for managing Categories and Products with CRUD operations. It follows Spring Data JPA for database interactions and supports pagination and sorting for product retrieval. The API is designed to be scalable, efficient, and follows best practices in RESTful API development.
 
 Features
